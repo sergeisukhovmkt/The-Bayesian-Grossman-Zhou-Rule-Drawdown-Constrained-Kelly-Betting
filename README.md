@@ -1,8 +1,10 @@
 # Bayesian Grossman-Zhou: Drawdown-Constrained Kelly Betting with Parameter Uncertainty
+
 [![Code License](https://img.shields.io/badge/Code-MIT-green)](LICENSE)
 [![Paper](https://img.shields.io/badge/Paper-SSRN%206942459-blue)](https://papers.ssrn.com/abstract=6942459)
 [![Version](https://img.shields.io/badge/Version-v1.3-informational)](https://papers.ssrn.com/abstract=6942459)
 [![Research](https://img.shields.io/badge/Field-Quantitative%20Finance-purple)](https://papers.ssrn.com/abstract=6942459)
+
 **Working Paper · Sukhov (2026c) · Market Microstructure Research Lab**
 
 ---
